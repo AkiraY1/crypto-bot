@@ -7,7 +7,6 @@ from decimal import Decimal as D
 from pairs import ALL_PAIRS
 
 #Related functions that might be useful (in no particular order)
-#So screwed ignore
 
 SECRET_KEY = ''
 KEY = ''
